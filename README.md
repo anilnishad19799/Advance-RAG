@@ -12,9 +12,10 @@ It integrates document advance chunking, indexing, hybrid retrieval, reranking, 
 |---README.md
 |   
 +---data
-|   +---database - storing all type like medical, legal, other domain vectordb and exact match word data here
+|   +---database - Stores and manages multi-domain data (Medical, Legal, and Other) for both vector-based and exact-match retrieval.
 |   +---raw - original pdf or text save here
 |   +---texts - convesion of pdf to text save here
+|
 +---MultiDomainRAG
 |   |   .env
 |   |   requirements.txt
