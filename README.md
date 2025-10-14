@@ -1,7 +1,7 @@
 # 🧠 MultiDomainRAG
 
 **MultiDomainRAG** is an Advanced Retrieval-Augmented Generation (RAG) pipeline that supports multiple domains — including *medical*, *sports*, and *general* text.  
-It integrates document chunking, hybrid retrieval, reranking, and semantic routing to provide accurate, context-aware answers from diverse data sources.
+It integrates document advance chunking, indexing, hybrid retrieval, reranking, and semantic routing to provide accurate, context-aware answers from diverse data sources.
 
 ---
 
@@ -66,7 +66,7 @@ It integrates document chunking, hybrid retrieval, reranking, and semantic routi
     |   query_construction.ipynb - includes vectordb, graphdb, relationaldb queries
     |   query_translation.ipynb - multi-query, RAG-fusion
     |   reranking.ipynb - Cohererank
-    |   retrieval.ipynb - exact match, embedding-based, hybrid retrieval
+    |   retrieval.ipynb - exact match retrieval, embedding-based retrieval, hybrid retrieval
     |   routing.ipynb - logical and semantic routing
 ```
 
@@ -115,10 +115,8 @@ pip install -r requirements.txt
 ### 4️⃣ Configure Environment Variables
 Create a `.env` file in the `MultiDomainRAG` directory (if required):
 ```bash
-CHROMA_DB_DIR=./data/database/chromadb
 OPENAI_API_KEY=your_openai_api_key_here
-BM25_INDEX_DIR=./data/database/bm25
-VECTOR_DB_TYPE=chroma
+CO_API_KEY=your_cohererank_api_key_here
 ```
 
 ---
@@ -150,10 +148,10 @@ uvicorn src.api.app:app --reload
 ### Step 3 — Interact with the App
 
 In the chat interface:
-1. **Upload documents** (PDF or text)  
-2. **Index data** (documents will be chunked, encoded & stored)  
+1. **Upload documents and index document** (PDF or text documents will be chunked, encoded & stored)  
 3. **Ask questions** related to the uploaded documents  
 4. The app will:
+   - There are three vector database for each domain - medical, legal, other
    - Route query to relevant domain  
    - Retrieve relevant chunks using **Hybrid Retriever**  
    - Rerank results using **Cohererank**  
@@ -167,14 +165,14 @@ All notebooks are available in the `notebook` folder — each covers a different
 
 | Notebook | Description |
 |-----------|-------------|
-| **advance_retrieval.ipynb** | Sentence-window retrieval & auto-merging |
-| **chunking.ipynb** | Different chunking techniques |
+| **advance_retrieval.ipynb** | Sentence-window retrieval & auto-merging retrieval |
+| **chunking.ipynb** | Different chunking techniques like fixed, recursivecharactersplitter etc. |
 | **indexing.ipynb** | Indexing with FAISS, ChromaDB, Pinecone, Milvus, Weaviate |
-| **retrieval.ipynb** | Exact match, embedding-based, hybrid retrieval |
+| **retrieval.ipynb** | Exact match retrieval, embedding-based retrieval, hybrid retrieval |
 | **reranking.ipynb** | Reranking using Cohererank |
 | **routing.ipynb** | Logical & semantic routing |
 | **query_construction.ipynb** | Query creation for vector, graph, and relational DBs |
-| **query_translation.ipynb** | Multi-query RAG-fusion |
+| **query_translation.ipynb** | Multi-query, RAG-fusion |
 | **example.db** | Example database for testing Milvus/Weaviate setups |
 
 To open:
@@ -236,14 +234,6 @@ Contributions are welcome!
 
 ---
 
-## 🙏 Acknowledgements
-
-- **PyMuPDF** for PDF parsing  
-- **ChromaDB**, **FAISS**, **Milvus**, **Weaviate** for vector databases  
-- **Cohererank** for reranking methodology  
-- **FastAPI** for backend API  
-
----
 
 ## 📜 License
 
