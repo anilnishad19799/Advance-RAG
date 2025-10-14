@@ -35,10 +35,6 @@ medical_docs = medical_loader.load()
 sport_loader = FileLoader(sport_file_path)
 sport_docs = sport_loader.load()
 
-# os.environ["CO_API_KEY"] = (
-#     "WeCRCffL5Mf9JzbsNdnuFI5xyxO4ahygB5Z3HoGF"  # replace with your key
-# )
-
 # -------------------------------
 # 2️⃣ Chunk Documents (Sentence Window)
 # # -------------------------------
