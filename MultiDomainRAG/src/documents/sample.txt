@@ -1,0 +1,23 @@
+What Are Transformers?
+Transformers are a type of neural network architecture that has revolutionized the field of natural language processing (NLP). Introduced in a 2017 paper titled "Attention is All You Need" by Vaswani et al., Transformers are designed to handle sequential data, such as text, by using a mechanism called self-attention.
+
+Key Characteristics of Transformers:
+Self-Attention Mechanism: The self-attention mechanism allows Transformers to weigh the importance of different words in a sentence when making predictions. This is crucial for understanding context, especially in long sentences.
+Parallelization: Unlike traditional RNNs (Recurrent Neural Networks), which process data sequentially, Transformers can process multiple words at once, making them faster and more efficient.
+Versatility: Transformers are not limited to language tasks; they can be applied to any problem involving sequential data, including tasks like image recognition and time-series forecasting.
+LLMs vs. Transformers: A Comparative Analysis
+1. Purpose of LLMs and Transformer
+LLMs: Primarily focused on generating and understanding natural language, LLMs are built on various architectures, including Transformers.
+Transformers: A neural network architecture used for various tasks, including but not limited to language modeling.
+2. Architecture Design
+LLMs: Can be based on different architectures, but many modern LLMs utilize the Transformer architecture to achieve state-of-the-art performance.
+Transformers: A specific architecture that uses self-attention and is often employed as the backbone of LLMs.
+3. Applications
+LLMs: Used for a wide range of NLP tasks, from text generation and summarization to translation and sentiment analysis.
+Transformers: Employed not just in NLP but also in other areas requiring the processing of sequential data, such as speech recognition and computer vision.
+4. Training
+LLMs: Require massive datasets and computational resources for training, often using Transformer architecture as a foundation.
+Transformers: The architecture itself, which can be trained on various types of sequential data, is adaptable to different tasks.
+5. Output
+LLMs: Generate human-like text, making them suitable for applications that require natural language understanding and generation.
+Transformers: Produce outputs depending on the task at hand, whether it be text, predictions, or other types of data sequences.

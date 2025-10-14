@@ -1,0 +1,3 @@
+llama-index-readers-file 
+pymupdf
+llama-index-llms-openai
