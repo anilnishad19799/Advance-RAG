@@ -9,8 +9,6 @@ from dotenv import load_dotenv
 
 from fastapi.middleware.cors import CORSMiddleware
 
-
-# make src visible if running module directly
 import sys
 
 sys.path.append(str(Path(__file__).parent.parent))
