@@ -116,15 +116,6 @@ async def upload_and_index_file(
         "bm25": str(bm25_dir),
     }
 
-
-from pydantic import BaseModel
-
-
-class QueryRequest(BaseModel):
-    question: str
-    top_k: int = 5
-
-
 @app.post("/query")
 def query_rag(question: str = Form(...), top_k: int = Form(5)):
     """
@@ -175,12 +166,6 @@ def query_rag(question: str = Form(...), top_k: int = Form(5)):
     adapter = HybridRetrieverAdapter(chosen_hybrid)
     coherer = CohererankRetriever(base_retriever=adapter)
     reranked_docs = coherer.get_relevant_documents(question, top_k=top_k)
-
-    # Build response documents
-    # docs_resp = [
-    #     {"text": d.page_content, "metadata": getattr(d, "metadata", {})}
-    #     for d in reranked_docs
-    # ]
 
     docs_resp = []
     for d in reranked_docs:
