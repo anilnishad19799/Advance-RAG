@@ -8,9 +8,8 @@ It integrates document advance chunking, indexing, hybrid retrieval, reranking, 
 ## 📂 Folder Structure
 
 ```
-|   .gitignore
-|   README.md
-|   temp
+|---.gitignore
+|---README.md
 |   
 +---data
 |   +---database
