@@ -1,0 +1,7 @@
+Transformers: The architecture itself, which can be trained on various types of sequential data, is adaptable to different tasks.
+
+5. Output
+
+LLMs: Generate human-like text, making them suitable for applications that require natural language understanding and generation.
+
+Transformers: Produce outputs depending on the task at hand, whether it be text, predictions, or other types of data sequences.
