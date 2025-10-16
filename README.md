@@ -61,6 +61,7 @@ It integrates document advance chunking, indexing, hybrid retrieval, reranking, 
 |       | --- Dockerfile
 |
 |  | --- docker-compose.yml
+|
 \---notebook
     |   advance_retrieval.ipynb - sentence window retrieval and auto merging retrieval
     |   chunking.ipynb - all chunking technique
