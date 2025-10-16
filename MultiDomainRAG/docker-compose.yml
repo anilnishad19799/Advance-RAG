@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  advancerag_app:
+    build:
+      context: .                  # build context is project root
+      dockerfile: src/Dockerfile # Dockerfile is inside src
+    container_name: advancerag_service
+    ports:  
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data          # Mount your data folder
