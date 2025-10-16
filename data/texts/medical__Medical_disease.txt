@@ -1,0 +1,1312 @@
+Some Common Human Diseases
+BIOLOGY
+ 264
+Notes
+MODULE - 4
+Environment and
+Health
+In the previous lesson you have read about the diseases due to nutritional
+deficiencies. In this lesson, you will learn about diseases caused due to other reasons.
+OBJECTIVES
+After completing this lesson, you will be able to :
+z
+define a disease and learn its types;
+z
+differentiate between parasite and pathogen;
+z
+differentiate between infection and infestation;
+z
+list the symptoms, causative agents, prevention and control of influenza,
+measles, polio, hepatitis, tuberculosis, diphtheria, leprosy, malaria, filariasis
+and dengue.
+z
+identify certain diseases that are caused due to improper functioning of some
+organs of the body system;
+z
+describe the causes, symptoms and prevention and cure for hypertension;
+z
+list the symptoms of and methods for diagnosing coronary heart disease and
+suggest preventive measures;
+z
+describe the cause, the symptoms, preventive and curative methods of diabetes
+mellitus and osteoporosis;
+z
+recognize cancer as a cell-regulation disorder;
+z
+define and differentiate between benign and malignant tumors;
+z
+interpret the category of allergies as immune system related disorders;
+z
+define the special category of sexually transmitted diseases;
+29
+SOME COMMON HUMAN DISEASES
+
+Some Common Human Diseases
+ 265
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+z
+list the causative agents, symptoms, prevention and control of syphilis,
+gonorrhea and AIDS;
+z
+define drug abuse and its prevention.
+29.1 DISEASES
+29.1 What is a disease?
+Any malfunctioning process which interferes with the normal functioning of the body
+is called a disease. In other words, disease may be defined as a disorder in the physical,
+physiological, psychological or social state of a person caused due to nutritional
+deficiency, physiological disorder, genetic disorder, pathogen or any other reason.
+29.1.1 Types of Diseases
+The diseases may be classified into two broad categories (Table 29.1).
+Table 29.1 Classification of human diseases
+Diseases
+Congenital diseases
+Acquired diseases
+(Present since birth)
+(Develop after birth)
+Communicable diseases
+Non-communicable diseases
+(Spread from infected person
+(do not spread from a diseased person
+to healthy person
+to a healthy person)
+Degenerative
+Deficiency
+Allergies
+Cancer
+Other diseases
+diseases
+diseases
+(caused due to
+(caused due to
+(caused due to
+(caused due to
+(caused due to
+hypersensitivity uncontrolled
+various physical
+malfunctioning
+lack of nutrients of the body to
+growth of cells/
+agents or any
+of vital body
+in diet)
+certain foreign
+tissues)
+other reason)
+organ)
+substances)
+A. Congenital disease : The disease which is present from birth (e.g. hole in the
+heart in infants). They are caused by some genetic abnormality or metabolic
+disorder or malfunctioning of an organ.
+B. Acquired disease : The disease which may occur after birth during one’s
+lifetime.
+Acquired diseases may generally be classified into :
+(i)
+Infectious diseases : The diseases which can be transmitted from diseased
+healthy person person to e.g. measles.
+(ii) Degenerative diseases : The diseases caused by the malfunction of some vital
+organs of the body e.g. heart failure.
+
+Some Common Human Diseases
+BIOLOGY
+ 266
+Notes
+MODULE - 4
+Environment and
+Health
+(iii) Deficiency diseases : These are caused due to nutritional deficiency such as
+that of minerals or vitamins in the diet e.g. anaemia (Fe), Beri- beri (vitamin
+B). You have read about such diseases in an earlier lesson 27.
+(iv) Cancer : This is an abnormal, uncontrolled and unwanted growth of cells. e.g.
+breast cancer.
+Acquired diseases are studied under two categories (Table 29.2).
+(i)
+Communicable diseases : The diseases which can be transmitted from
+an infected person to a healthy person.
+(ii)
+Non-communicable diseases : These diseases do not spread from an
+affected person to a healthy person.
+Table 29.2 Differences between communicable and
+non-communicable diseases
+Communicable diseases
+Non-communicable diseases
+1. Caused by some biological agents or
+pathogens, such as viruses, bacteria,
+protozoans and helminths (worms).
+2. Spread from one person to another
+through contact, water, air, and food, etc.
+3. The concern of the diseases involves
+the society as these are related to
+community health.
+29.1.2 Modes of Spread of Communicable  Diseases
+Communicable diseases spread from the infected person to a healthy person in the
+following ways.
+Direct transmission
+The pathogens of diseases infect a healthy person directly without an intermediate
+agent. It can take place by various means such as,
+(i)
+Direct contact between the infected person and the healthy person :
+Diseases like small pox, chicken pox, syphilis, gonorrhoea spread through direct
+contact.
+(ii) Droplet infection : The infected person throws out tiny droplets of mucus by
+coughing, sneezing or spitting. These droplets may contain the pathogen. By
+inhaling the air containing the droplets, a healthy person may get the infection.
+Diseases like common cold, pneumonia, influenza, measles, tuberculosis and
+whooping cough spread through droplet infection.
+Caused due to some specific factor,
+such as malfunctioning of some vital
+organ, and deficiency of nutrients.
+Do not spread from one person to
+another by contact.
+The concern of the disease is restricted
+to the individual only.
+
+Some Common Human Diseases
+ 267
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+(iii) Contact with soil contaminated with disease-causing viruses and bacteria.
+(iv) Animal bite : Viruses of rabies are introduced through the wound caused by
+the bite of rabid animals, especially dogs. The virus is present in the saliva of
+the rabid animals.
+Indirect transmission
+The pathogens of certain diseases reach the human body through some intermediate
+agents. It can take place by various means, which are as follows :
+(i)
+By vectors such as houseflies, mosquitoes, and cockroaches. Examples:
+Houseflies carry the causative organisms of cholera on their legs and mouth
+parts from the faeces and sputum of infected persons to food and drinks and
+contaminate them. When this contaminated food is taken by a healthy person,
+he gets the infection. Similarly, mosquitoes carry virus of dengue and malarial
+parasite which causes malaria.
+(ii) Air-borne : The pathogens may reach humans with air and dust. The epidemic
+typhus spreads by inhalation of dried faeces of infected fly.
+(iii) Object borne (Fonite borne) : Many diseases are transmitted through the use
+of contaminated articles, such as clothes, utensils, toys, door handles, taps,
+syringes and surgical instruments.
+(iv) Water borne : If potable water (drinking water) is contaminated with
+pathogens of diseases such as cholera, diarhhoea, hepatitis or jaundice, it
+reaches a healthy person upon consuming such water.
+29.2 SOME IMPORTANT TERMS TO REMEMBER
+Pathogen : A living organism which causes a disease.
+Parasite : An organism which gets food and shelter from host.
+Host : The living body on or inside which the disease-producing organism takes
+shelter.
+Infestation : Presence of a large number of parasitic organisms on the surface of
+body of the host or on the clothings.
+Vector : It is an organism which harbours a pathogen and may pass it on to another
+person to cause a disease (Mosquitoes harbour malarial parasite and transmits it
+to humans).
+Carrier : It is an organism which itself does not harbour the pathogen but physically
+transmits it to another person (Housefly is the carrier of cholera germs).
+Reservoir : An organism which harbours pathogens in large numbers that do not
+cause any suffering to it.
+Epidemic : Spreading of a disease among a large number of people causing a huge
+loss of life in the same place for some time e.g. plague.
+Endemic : A disease which is regularly found among a particular group of people
+e.g. goitre, restricted to a certain locality or a country.
+
+Some Common Human Diseases
+BIOLOGY
+ 268
+Notes
+MODULE - 4
+Environment and
+Health
+Pandemic : A disease which is found all over the world e.g. AIDS.
+Interferon : Type of proteins produced by infected cells of the body when attacked
+by a virus, which act to prevent the further development of the same virus.
+Inoculation : Introduction of antigenic material inside the body to prevent suffering
+from a disease.
+Vaccination : Injection of a weak strain of a specific bacterium (Vaccine) in order
+to secure immunity against the corresponding disease. It is also called immunisation.
+Incubation period : The period between entry of pathogen inside a healthy body
+and appearance of the symptoms of the disease.
+Symptoms : Specific morphological or physiological expressions which appear on
+the deseased organism and help in the identification of the disease.
+INTEXT QUESTIONS 29.1
+1. Define the term disease. .........................................................................
+2. Give appropriate terms for
+(i)
+the kind of disease which is present from birth.. .......................
+(ii)
+disease caused by malfunctioning of vital organs. ......................
+3. Name any two communicable and any two non-communicable diseases in
+humans
+..................................................................................................................
+4. What does infestation mean?
+..................................................................................................................
+29.3 COMMUNICABLE DISEASES (INFECTIOUS DISEASES)
+The diseases which spread from one diseased person to another through contaminated
+food, water or contact or through insecticides, and animals are called the
+communicable diseases. These are caused by different causative agents (pathogens).
+29.3.1 Diseases caused by viruses
+1. Chicken pox
+Pathogen : Chicken pox virus (voricella)
+Mode of transmission : By contact or through scabs
+Incubation period : 12-20 days
+Symptoms
+(i)
+Fever, headache and loss of appetite
+(ii)
+Dark red-coloured rash on the back and chest which spreads on the whole body.
+Later, rashes change into vesicles.
+
+Some Common Human Diseases
+ 269
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+(iii) After few days these vesicles start drying up and scabs (crusts) are formed.
+(v)
+These scabs start falling (infective stage)
+Prevention and cure
+There is no vaccine against chicken pox as yet. But precautions must be taken as
+follows:
+(i)
+The patient should be kept in isolation.
+(ii)
+Clothings and utensils, used by the patient should be sterilised.
+(iii) Fallen scabs should be collected and burnt.
+One attack of chicken pox gives life long immunity to the person recovered from
+this disease.
+2. Measles
+Pathogen : Virus (Rubeola)
+Mode of transmission : By air
+Incubation period : 3-5 days
+Symptoms
+(i)
+Common cold
+(ii) Appearance of small white patches in mouth and throat.
+(iii) Appearance of rashes on the body.
+Prevention and cure
+(i)
+The patient should be kept in isolation.
+(ii) Cleanliness should be maintained.
+(iii) Antibiotics check only the secondary infections which can easily recur.
+3. Poliomyelitis
+Pathogen : Polio Virus
+Mode of transmissions : Virus enters inside the body through food or water.
+Incubation period : 7-14 days
+Symptoms
+(i)
+The virus multiplies in intestinal cells and then reaches the brain through blood.
+(ii) It damages brain and nerves and causes infantile paralysis.
+(iii) Stiffness of neck, fever, loss of head support.
+Prevention and Cure
+Polio vaccine drop (oral polio vaccine, OPV) are given to children at certain
+intervals.
+Pulse polio programme is organised in our country to give polio vaccine to
+children.
+
+Some Common Human Diseases
+BIOLOGY
+ 270
+Notes
+MODULE - 4
+Environment and
+Health
+4. Rabies (also called hydrophobia)
+Pathogen : Rabies virus
+Mode of Transmission : Bite by a rabid dog.
+Incubation period : 10 days to 1-3 months depending upon the distance of bite
+from Central Nervous System (CNS), that is the brain or spinal cord.
+Symptoms
+(i)
+Severe headache and high fever.
+(ii) Painful contraction of muscles of throat and chest.
+(iii) Choking and fear of water leading to death.
+Prevention and Cure
+(i)
+Compulsory immunisation of dogs.
+(ii) Killing of rabid animals.
+(iii) Anti-rabies injections or oral doses are given to the person bitten by a rabid
+animal.
+5. Hepatitis
+Pathogen : Hepatitis B virus.
+Mode of Transmission : Mainly through contaminated water.
+Incubation Period : Generally 15-160 days.
+Symptoms
+(i)
+Bodyache.
+(ii) Loss of appetite and nausea.
+(iii) Eyes and skin become yellowish, urine deep yellow in colour (due to bile
+pigments).
+(iv) Enlarged liver.
+Prevention and Cure
+(i)
+Hepatitis B vaccine is now available in India.
+(ii) Proper hygeine is to be observed.
+(iii) Avoid taking fat rich substances.
+6. Influenza
+Influenza, commonly known as ‘flu’ is an illness caused by viruses that infect the
+respiratory tract. Compared to common cold, influenza is a more severe illness.
+Causes
+Influenza is caused by a virus which attacks our body’s cells, resulting in various
+effects depending on the strain of the virus.
+
+Some Common Human Diseases
+ 271
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+There are many strains of influenza virus. The virus mutates all the time and new
+variations (strains) arise. This constant changing enables the virus to evade the
+immune system of its host. Unfortunately immunity against one strain (which is
+conferred by exposure or immunisation) does not protect against other strains. A
+person infected with influenza virus develops antibodies against that virus; as the
+virus changes, the antibodies against the virus do not recognize the changed virus,
+and influenza can recur, caused by the changed or mutated virus.
+Symptoms
+Typical symptoms of influenza include:
+(i)
+fever (Usually 100° F to 103° F in adults and often even higher in children).
+(ii) respiratory tract infection symptoms such as, cough, sore throat, running
+nose, headache, pain in the muscles, and extreme fatigue.
+Although nausea and vomiting and diarrhoea can sometimes accompany Influenza
+infection, especially in children, gastrointestinal symptoms are rarely prominent.
+Most people who get flu, recover completely in 1 to 2 weeks, but some people
+develop serious and potentially life-threatening complications, such as pneumonia.
+Treatment and Control
+(i) Much of the illness and death caused by influenza can be prevented by annual
+influenza vaccination. Influenza vaccine is specifically recommended for those
+who are at high risk for complications with chronic diseases of the heart, lungs
+or kidneys, diabetes, or severe forms of anaemia.
+(ii) The persons suffering from influenza should
+z
+drink plenty of fluids
+z
+take symptom relief with paracetamol, aspirin (not in children under the
+age of 16) or ibuprofen as recommended by the doctor.
+z
+Consult doctor immediately for treatment.
+7. Dengue
+Dengue is an acute fever caused by virus. It is of two types: (i) Dengue fever, (ii)
+Dengue hemorrhagic fever.
+Dengue fever is characterized by an onset of sudden high fever, severe headache,
+pain behind the eyes and in the muscles and joints.
+Dengue hemorrhagic fever is an acute infectious viral disease. It is an advanced
+stage of dengue fever. It is characterized by fever during the initial phase and other
+symptoms like headache, pain in the eye, joint pain and muscle pain, followed by
+signs of bleeding, red tiny spots on the skin, and bleeding from nose and gums.
+How does Dengue spread?
+Dengue spreads through the bite of an infected Aedes aegypti mosquito. The
+transmission of the disease occurs when a mosquito bites an infected person and
+subsequently bites a healthy person. In doing so, it transmits blood containing the
+
+Some Common Human Diseases
+BIOLOGY
+ 272
+Notes
+MODULE - 4
+Environment and
+Health
+virus to the healthy person and the person becomes infected with dengue. The first
+symptoms of the disease occur about 5 to 7 days after the infected bite.
+Aedes mosquito rests indoors, in closets and other dark places, and is active during
+day time. Outside, it rests where it is cool and shaded. The female mosquito lays
+her eggs in stagnant water containers such as coolers, tyres, empty buckets, in and
+around homes, and other areas in towns or villages. These eggs become adults in
+about 10 days.
+Incubation period
+The time between the bite of a mosquito carrying dengue virus and the start of
+symptoms averages 4 to 6 days, with a range of 3 to 14 days.
+Diagnosis
+Diagnosis is made through blood tests by scanning for antibodies against dengue
+viruses. In addition the blood platelet counts also get drastically reduced in the
+infected person.
+Symptoms
+Symptoms of Dengue fever
+(i)
+Sudden onset of high fever, generally 104-105 °F (40 °C), which may last 4-
+5 days.
+(ii)
+Severe headache mostly in the forehead.
+(iii) pain in the joints and muscles, body aches.
+(iv) Pain behind the eyes which worsens with eye movement.
+(v)
+Nausea or vomiting.
+Symptoms of Dengue hemorrhagic fever
+These include symptoms similar to dengue fever, plus other symptoms such as:
+(i)
+Severe and continuous pain in the abdomen.
+(ii)
+Rashes on the skin.
+(iii) Bleeding from the nose, mouth, or in the internal organs.
+(iv) Frequent vomiting with or without blood.
+(v)
+Black stools due to internal bleeding.
+(vi) Excessive thirst (dry mouth).
+(vii) Pale, cold skin, weakness.
+Prevention
+Following steps can be taken to prevent spread of dengue fever:
+(i)
+Avoid water stagnation for more than 72 hours so that the mosquitoes do not
+breed there.
+(ii)
+Prevent mosquito breeding in stored water bodies, like ponds, and wells.
+
+Some Common Human Diseases
+ 273
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+(iii) Destroy discarded objects like old tyres and bottles, as they collect and store
+rain water.
+(iv) Use mosquito repellents and wear long sleeved clothes to curtail exposure.
+(v)
+Use mosquito nets, also during daytime.
+(vi) Avoid outdoor activities during dawn or dusk when these mosquitoes are most
+active.
+(vii) Patients suffering from dengue fever must be isolated for at least 5 days.
+(viii) Report to the nearest health centre for any suspected case of Dengue fever.
+Treatment for dengue and dengue hemorrhagic fever
+There is no specific treatment for dengue fever. Persons with dengue fever should
+rest and drink plenty of fluids. Dengue hemorrhagic fever is treated by replacing
+lost fluids. Some patients need blood transfusions to control bleeding.
+INTEXT QUESTIONS 29.2
+1. How does chicken pox spread?
+..................................................................................................................
+2. Mention the most obvious symptom of measles.
+..................................................................................................................
+3. Which organ system of the body is affected by the polio virus?
+..................................................................................................................
+4. Name the causative organism of hydrophobia.
+..................................................................................................................
+5. Which mosquito spreads dengue?
+..................................................................................................................
+29.3.2 Diseases caused.by Bacteria
+1. Tuberculosis
+Pathogen : A bacterium (Mycobacterium tuberculosis).
+Mode of Transmission : airborne-discharged through sputum, cough and sneeze,
+of the infected person.
+Incubation period : 2-10 weeks during which the bacteria produce a toxin,
+tuberculin.
+Symptoms
+(i)
+Persistent fever and coughing.
+(ii)
+Chest pain and blood comes out with the sputum.
+(iii) General weakness.
+
+Some Common Human Diseases
+BIOLOGY
+ 274
+Notes
+MODULE - 4
+Environment and
+Health
+Prevention and Cure
+(i)
+Isolation of patient to avoid spread of infection.
+(ii)
+BCG vaccination is given to children as a preventive measure.
+(iii) Living rooms should be airy, neat and with clean sorroundings.
+(iv) Antibiotics be administered as treatment.
+2. Typhoid
+Pathogen : A Bacillus rod-shaped bacterium (Salmonella typhi)
+Mode of transmission : Through contaminated food and water
+Incubation period : About 1-3 weeks
+Symptoms
+(i)
+Continuous fever, headache, slow pulse rate.
+(ii)
+Reddish rashes appear on the belly.
+(iii) In extreme cases, ulcers may rupture resulting in death of the patient.
+Prevention and Cure
+(i)
+Anti-typhoid inoculation should be given.
+(ii)
+Avoid taking exposed food and drinks.
+(iii) Proper sanitation and cleanliness should be maintained.
+(iv) Proper disposal of excreta of the patient.
+(v)
+Antibiotics should be administered.
+3. Cholera
+It often breaks out among people in crowded areas and the areas with poor sanitary
+conditions.
+Pathogen : Comma shaped bacterium (Vibrio cholerae)
+Mode of transmission : Contaminated food and water. Housefly is the carrier.
+Incubation period : 6 hours to 2-3 days.
+Symptoms
+(i)
+Acute diarrohoea and watery stool.
+(ii)
+Muscular cramps.
+(iii) Loss of minerals through urine.
+(iv) Dehydration leads to death.
+Prevention and cure
+(i)
+Cholera vaccination should be given.
+(ii)
+Electrolytes (Na, K, sugar) dissolved in water should be given to the patient
+to check dehydration (In market it is available as ORS–oral rehydration
+solution).
+(iii) Proper washing and cooking of food.
+
+Some Common Human Diseases
+ 275
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+(iv) Proper disposal of vomit and human excreta.
+(v)
+Flies should not be allowed to sit on eatables and utensils.
+4. Diphtheria
+This disease generally occurs in children of 1-5 years of age.
+Pathogen : Rod-shaped bacterium (Cornybacterium diphthereae)
+Mode of Transmission : Through air (droplet infection)
+Incubation period : 2-4 days
+Symptoms
+(i)
+Slight fever, Sore throat and general indisposition.
+(ii)
+Oozing semisolid material in the throat which develops into a tough membrane.
+The membrane may cause clogging (blocking) of air passage, resulting into
+death.
+Prevention and cure
+(i)
+Immediate medical attention should be given.
+(ii)
+Babies should be given DPT vaccine.
+(iii) Sputum, oral and nasal discharges of the infected child should be disposed off.
+(iv) Antibiotics may be given under doctor’s supervision.
+(v)
+Isolation of the infected child.
+5. Leprosy
+Pathogen : A bacterium (Mycobacterium leprae)
+Mode of transmission : Prolonged contact with the infected person. Nasal
+secretions are the most likely infectious material for family contacts.
+Incubation period : 1-5 years
+Symptoms
+(i)
+Affects skin.
+(ii)
+Formation of nodules and ulcer.
+(iii) Scabs and deformities of fingers and toes.
+(iv) Infected areas lose sensation.
+Prevention and Cure
+(i)
+The children should be kept away from parents suffering from leprosy.
+(ii)
+Some medicine may arrest the disease and prevent from spreading.
+
+Some Common Human Diseases
+BIOLOGY
+ 276
+Notes
+MODULE - 4
+Environment and
+Health
+INTEXT QUESTIONS 29.3
+1. Name the causative bacterium of (i) TB (ii) Typhoid (iii) Cholera.
+..................................................................................................................
+2. State the most obvious symptom of diphtheria.
+..................................................................................................................
+3. What is the mode of transmission of leprosy.
+..................................................................................................................
+29.3.3 Diseases caused by protozoans
+1. Malaria
+Pathogen : Malarial parasite (different species of Plasmodium)
+Mode of transmission : By bite of female Anopheles mosquitoes
+Incubation period : Approximately 12 days
+Symptoms
+(i)
+Headache, nausea and muscular pain.
+(ii)
+Feeling of chilliness and shivering followed by fever which becomes normal
+along with sweating after some time.
+(iii) The patient becomes weak and anaemic.
+(iv) If not treated properly secondary complications may lead to death.
+Prevention and cure
+(i)
+Fitting of double door and windows (with “Jali” i.e. wire mesh) in the house
+to prevent entry of mosquitoes.
+(ii)
+Use of mosquito net and mosquito repellents.
+(iii) No water should be allowed to collect in ditches or other open spaces to
+prevent mosquito breeding.
+(iv) Sprinkling of kerosene oil in ditches or other open spaces where water gets
+collected.
+(v)
+Antimalarial drugs to be taken.
+2. Amoebiasis (Amoebic dysentery)
+Pathogen : Entamoeba histolytica
+Mode of transmission : Contaminated food and water
+
+Some Common Human Diseases
+ 277
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+Symptoms
+(i)
+Formation of ulcers in intestine.
+(ii)
+Feeling of abdominal pain and nausea.
+(iii) Acute diarrhoea and mucus in stool.
+Prevention and cure
+(i)
+Proper sanitation should be maintained.
+(ii)
+Vegetables and fruits must be properly washed before eating.
+(iii) Antibiotics may be given to the patients.
+29.3.4 Diseases caused by worms (helminths)
+1. Filariasis
+Pathogen : Filarial worm (Wucheraria bancrofti)
+Mode of transmission : Bites of mosquitoes - Aedes and Culex.
+Symptoms
+(i)
+Fever
+(ii)
+Collection of endothellial cells and metabolites in the wall of lymph vessels.
+(iii) Swelling takes place in certain parts of the body like legs, breasts, and scrotum.
+(iv) Swelling of legs which appear as legs of elephant, so this disease is also called
+elephantiasis (Fig. 29.1)
+Fig. 29.1 Patient suffering from Elephantiasis.
+Prevention and cure
+(i)
+Mesh doors and windows in the house to check the entry of mosquitoes.
+(ii)
+The water collected in tanks or other articles should be properly covered.
+
+Some Common Human Diseases
+BIOLOGY
+ 278
+Notes
+MODULE - 4
+Environment and
+Health
+(iii) Sprinkling of kerosene in ditches.
+(iv) Drugs may be administered.
+INTEXT QUESTIONS 29.4
+1. Which mosquito carries stages of life history of the malarial parasite?
+..................................................................................................................
+2. Which protozoan causes amoebic dysentery?
+..................................................................................................................
+3. Name the disease cause by Wuchrareria bancrofti.
+..................................................................................................................
+29.4 NON-COMMUNICABLE DISEASES
+1. Diabetes mellitus
+The disease can be diagnosed by blood test or urine test.
+Causes
+(i)
+Less secretion of insulin hormone from the pancreas.
+(ii)
+Mental stress
+(iii) Through heredity from parents to children.
+Symptoms
+(i)
+More glucose in blood.
+(ii)
+Excessive and frequent passing of urine.
+(iii) Feeling thirsty and hungry frequently.
+(iv) Reduced healing capacity of injury.
+(v)
+General weakness of the body.
+(vi) In extreme cases diabetic coma can take place making the patient unconscious.
+Prevention and cure
+(i)
+Control the excessive weight of the body.
+(ii)
+A regulated and controlled diet is to be taken.
+(iii) The food should not contain sugar and much carbohydrates.
+(iv) Injection of insulin before meals, if required (only on doctor’s prescription).
+2. Cardio vascular diseases
+Common Causes
+(i)
+Deposition of cholesterol (a kind of fat) in the walls of coronary arteries which
+restrict the flow of blood to the heart muscles. This leads to heart attack.
+
+Some Common Human Diseases
+ 279
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+(ii)
+Due to reduced blood supply, and reduced oxygen available to the muscles,
+heart’s efficiency is affected.
+(iii) Due to stress and strain.
+(iv) Obesity (over weight).
+(a) Hypertension : (high blood pressure)
+Symptoms
+(i)
+Persistent high blood pressure (BP)
+(ii)
+It may damage the arteries of kidney.
+(iii) In extreme cases the arteries may burst or blindness may be caused.
+(iv) It may also cause paralysis.
+Prevention and Cure
+(i)
+Do not build up mental tension.
+(ii)
+Low fat diet should be taken.
+(iii) Weight of the body must be kept under control.
+(iv) Good eating habits should be cultivated
+(v)
+Medicines may be taken as per doctor’s advice.
+(b) Coronary heart disease
+Symptoms
+(i)
+Severe pain in the chest gasping for breathe.
+(ii)
+Intense nausea and vomiting.
+(iii) Lot of sweating takes place.
+(iv) Blood clot may be formed within the blood vessels.
+Prevention and Cure
+(i)
+A diet low in saturated fats may control the formation of cholesterol.
+(ii)
+Sound eating habits should be developed.
+(iii) Over weight should be checked.
+(iv) Avoid smoking, alcoholic drinks and drugs.
+(v)
+Take treatment under a qualified doctor.
+(vi) Electrocardiogram (ECG) can diagnose the disease.
+(vii) By-pass surgery is performed in extreme cases.
+3. Osteoporosis
+Osteoporosis is an age dependent disorder with loss of the normal density of bone.
+The bones become fragile and are easily fractured. Bones that are affected by
+osteoporosis can fracture with only a minor fall or injury. Elderly men and women
+are most susceptible because of hormonal changes which occur with advancing age.
+
+Some Common Human Diseases
+BIOLOGY
+ 280
+Notes
+MODULE - 4
+Environment and
+Health
+Symptoms
+(i)
+The persons suffering from osteoporosis may not know about their condition
+for a long time, because osteoporosis doesn’t cause clear cut symptoms and
+one may not realise till a bone fracture.
+(ii)
+The symptoms of osteoporosis are related to the location of the fracture.
+(iii) Fractures of the spine can cause severe ‘band like’ pain that radiates around
+from the back to the side of the body. Repeated spine fractures can cause
+chronic lower back pain, as well as curving of the spine, which gives the
+individual a hunched-back appearance.
+(iv) Some patients with osteoporosis develop stress fractures of the feet while
+walking or stepping off. Hip fractures typically occur as a result of a fall. With
+osteoporosis, hip fractures can occur upon even minor accidents. Hip fractures
+may take a very long time to heal because of poor bone quality.
+Treatment
+(i)
+Patients suffering from osteoporosis are generally treated with vitamin D and
+calcium supplements. In addition they are advised bed rest so that the condition
+does not worsen.
+(ii)
+Changes to lifestyle and diet are also recommended. The patients are advised
+to take calcium either via dietary means or via supplements in the form of
+tablets. Since body absorbs about 500 mg calcium at a given time, the calcium
+intake should be spread throughout the day.
+(iii) Exercise also helps to protect persons from the risk of getting osteoporosis.
+However, it is important to do exercises for osteoporosis under the guidance
+of a professional physiotherapist.
+4. Cancer
+1t is the uncontrolled and unwanted growth of cells.
+Cause
+(i)
+No definite cause has been arrived at so far. However, it is found that body
+has proto-oncogenes. These are activated by some substances or stimulus,
+which convert these into active cancer-causing oncogenes.
+(ii)
+Heavy smoking and alcoholism.
+(iii) Chewing of tobacco.
+(iv) Consistent irritation of skin or repeated injury at the same point.
+Cancer is a kind of tumorous growth. Tumours can be classified into two categories :
+(a) Benign tumour
+It remains confined to the place of origin and does not spread to other body parts.
+It is relatively harmless.
+
+Some Common Human Diseases
+ 281
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+(b) Malignant tumour
+It spreads to other parts of the body and growth is rapid. This is serious and may
+cause death of the patient.
+Symptoms
+(i)
+Persistent lump or thickening in tissues, specially in tongue, breast and uterus.
+(ii)
+Any irregular bleeding or blood-tinged discharge from any body opening.
+(iii) Any sore that does not heal quickly.
+(iv) Change in the form of mole or wart.
+(v)
+Persistent hoarseness in voice, cough or difficulty in swallowing.
+Prevention and cure
+(i)
+Cancer check up should be done once a year.
+(ii)
+Treatment should be taken under medical advice.
+(iii) Avoid smoking, taking alcohol and chewing of tobacco.
+(iv) Observe regularity in life style to keep body healthy.
+5. Allergy
+(i)
+Includes a group of non-infectious diseases.
+(ii)
+No definite cause is known
+(iii) It is believed that they occur due to hypersensitiviness of certain individuals
+to foreign matter (allergens) which may enter inside the body.
+(iv) Symptoms may be sneezing, gasping, running of eyes, irritation of throat or
+trachea.
+(v)
+Allergens may be pollen grains, feathers, some animals or insects, drugs,
+medicines and odour.
+INTEXT QUESTIONS 29.5
+1. Why is diabetes called a hereditary disease?
+..................................................................................................................
+2. What happens to the blood pressure in persons with hypertension?
+..................................................................................................................
+3. State one point of difference between malignant and benign tumour.
+..................................................................................................................
+29.5 SEXUALLY TRANSMITTED DISEASES
+The diseases that are transmitted through sexual contact are known as sexually
+transmitted diseases. Sexually transmitted diseases are those diseases that are
+transmitted via the mucous membrane and secretions of the sexual organ, throat and
+the rectum. Syphilis, gonorrhoea, and AIDS are some sexually transmitted diseases.
+
+Some Common Human Diseases
+BIOLOGY
+ 282
+Notes
+MODULE - 4
+Environment and
+Health
+29.5.1 AIDS (Acquired Immuno Deficiency Syndrome)
+It is a pandemic disease. The word “immuno deficiency” signifies that the immune
+system becomes very weak. It is a disease of cell-mediated immune system of the
+body.
+Lymphocytes are the main cells of the immune system i.e. T-lymphocytes and
+B-lymphocytes. ‘Helper T’ lymphocytes play a great role in regulating the immune
+system. Damages to or destruction of ‘Helper’ lymphocytes leads to the development
+of a cellular immune deficiency which makes the patient susceptible to wide variety
+of infections.
+Fig. 29.2 Human Immunodeficiency Virus (HIV)
+Mode of transmission : AIDS may be transmitted through any of the following
+means :
+(i)
+Sexual contact with the affected person. In India, the most common route of
+HIV transmission is through unprotected heterosexual sex.
+(ii) Using the same syringe that was used for affected person.
+(iii) Blood transfusion which contains human immuno deficiency virus.
+(iv) Organ transplantation of the affected person.
+(v) Artificial insemination.
+(vi) From mother to new born baby during the process of giving birth.
+Incubation period : The average period is 28 months though it may range between
+15 to 57 months
+Symptoms : The sufferer may show one or more of the following symptoms :
+(i)
+A type of lung disease develops (tuberculosis).
+(ii) A skin cancer may be observed.
+(iii) Nerves are affected.
+(iv) Brain is badly damaged with the loss of memory, ability to speak and to think.
+Viral capsid
+RNA
+Protein
+
+Some Common Human Diseases
+ 283
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+(v) The number of platelets (thrombocytes) becomes less which may cause
+haemorrhage.
+(vi) In severe cases the patient shows swollen lymph nodes, fever and loss of weight.
+A full blown (disease at its peak ) AIDS patient, may die within three years.
+Prevention and cure
+No medicine or vaccine is known to be available against HIV infection. Therefore,
+care has to be taken through following measures:
+(i)
+There should not be any sexual contact with the person who has HIV infection
+or STI. Since STI causes some damage to the genital area and mucous layer,
+and thus facilitates the entry of HIV into the body.
+(ii) Use disposable syringe and needle.
+(iii) The blood to be transfused to the needy person, should be free from HIV germ.
+(iv) Prostitution and homosexuality should be avoided.
+(v) Condom should always be used during intercourse.
+Control
+AIDS can be detected by ELISA test.
+There are three points which may be important to control STD.
+(i)
+Partner notification : Identification of potential infected contact, examination
+and treatment.
+(ii) Education of STD : This should be a part of general education.
+(iii) Screening for STD : Serological screening of groups, such as, blood donors,
+women before giving birth.
+Facts about HIV transmission
+z HIV is a weak virus and hard to get infected with. It cannot be transmitted
+through air or water outside the human body.
+z A person cannot get AIDS by hugging or sneezing of an infected person, insect
+bites (including mosquito), sharing the same comb, plates, glass, handkerchiefs,
+knives or cutlery.
+z A person cannot get AIDS by using public toilets, swimming pools, showers
+and telephones.
+z HIV cannot be transmitted by being near to someone, touching someone or
+working with someone who is suffering from AIDS.
+INTEXT QUESTIONS 29.6
+1. How is HIV transmitted? Mention any three ways of infection.
+............................................................................................................................
+
+Some Common Human Diseases
+BIOLOGY
+ 284
+Notes
+MODULE - 4
+Environment and
+Health
+2. Mention any two methods to prevent AIDS.
+............................................................................................................................
+3. Write full form of HIV.
+............................................................................................................................
+4. Give any two symptoms of AIDS.
+............................................................................................................................
+5. Mention three general points the knowledge of which may control STD.
+............................................................................................................................
+29.5.2 Syphilis
+Causative organism
+Treponema pallidum (a long corkscrew bacteria)
+Mode of spread
+Sexual contact with the infected person
+Incubation period
+Symptoms of the disease occur in about 10-90 days after contraction, but generally
+noticed in 3-4 weeks after getting infected with the bacteria.
+Symptoms
+Symptoms of syphilis occur in stages. The common symptoms of syphilis include.
+(i)
+Fever, and sores on the skin, in the throat and urinogenital areas especially
+vagina or penis, anus, rectum and mouth. Sores are firm, round and often
+painless.
+(ii)
+Rashes on hands, feet and palms.
+(iii) White patches in the mouth.
+(iv) Acne-like warts in the groin area.
+(v)
+Hair fall in patches from infected areas.
+(vi) The last three symptoms can be very serious. They often become internal and
+affect organs like brain, nerves, liver, eyes, blood vessels, bones and joints,
+which show up after about 10 years of getting the infection. It can lead to
+paralysis, blindness, dementia and sterility.
+Prevention and cure
+(i)
+Having sexual intimacy with only one person.
+(ii)
+Avoiding prostitution and homosexuality.
+(iii) Practising abstinence, and use condoms.
+(iv) Taking appropriate medical treatment, and maintaing personal hygience.
+
+Some Common Human Diseases
+ 285
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+29.5.3 Gonorrhoea
+Gonorrhoea is a sexually transmitted disease that often involves urethra, vagina or
+penis, cervix, anus, and throat, as its target sites.
+Causative organism
+A gonococcus bacterium, Neisseria gonorrhoeae. It grows and multiplies quickly
+in warm moist areas of the body, such as the cervix, rectum and mouth.
+Modes of spread
+Having multiple sex partners increases the risk of contracting it. Any kind of
+unprotected sex is always a risk. Any kind of contact of sores with an infected person
+is also risky.
+Incubation period
+About 2-5 days after getting infection.
+Symptoms
+(i)
+Inflammation of mucous membrane in the urinogenital tract.
+(ii)
+Burning sensation while passing out urine and urethral discharge.
+(iii) Rectal discomfort.
+(iv) Pain in the joints.
+(v)
+Rashes on palms, Mild sore throat
+(vi) In females, it may cause sterility
+Prevention and cure
+(i)
+Having sexual contact with only one person.
+(ii)
+Avoiding prostitution and homosexuality.
+(iii) Taking antibiotics, such as penicillin injection or appropriate medicines at the
+appropriate time as per Doctor’s advice.
+In males, gonorrhoea primarily affects the urethra, anus, throat, joints and eyes. Most
+victims of this disease are teenagers and young adults. One of the advanced
+complications of gonorrhoea is gonococcal septicemia (blood poisoning).
+29.6 DRUG ABUSE AND ITS PREVENTION
+What is a drug
+A drug is a chemical substance that changes the way our body and mind work. A
+pharmaceutical preparation or a naturally occurring substance used primarily to alter
+the physical or mental functioning of an individual, is called a drug.
+What is drug abuse
+When drugs are taken for medical reasons to treat or cure disease both physical
+and mental, they are called medications or therapeutic drugs.
+Drug abuse occurs when drugs are taken without medical reasons and without
+medical supervision, especially when they are taken in an amount, strength,
+frequency, or manner that damages the physical and mental functioning of the
+individual. Cough syrups, pain killers, and tranquillizers are some common medicines
+that are often abused.
+
+Some Common Human Diseases
+BIOLOGY
+ 286
+Notes
+MODULE - 4
+Environment and
+Health
+Drug abuse also occurs when certain chemicals that have no medical use or benefits
+are taken, such as sniffing glue and solvents. The extent of drug abuse depends on
+the quantity of the drug being taken, and the method and frequency of its
+consumption. Drug abuse leads to many serious physical, emotional, and social
+problems.
+What are the effects of drug abuse?
+Drug abuse leads to a number of short-term and long-term effects that are
+detrimental to health:
+z
+Short-term effects : These are the effects that appear instantly or a few minutes
+after the intake of drugs. The effects include a sense of well-being and a pleasant
+drowsiness.
+z
+Long-term effects :  Constant and excessive use of drugs over a long period
+can cause both physical and mental damage and illness. This includes failure in
+academic studies, employment, and interpersonal relationship; financial ruin;
+increased risk of contracting STIs; and increased risk of being involved in
+vehicular accidents. Addicts stop thinking of everything in life except when and
+how they will get their next drug dose. They will do anything for the dose,
+including committing crimes such as theft and in certain case even murder.
+Some Basic Facts
+Teenagers sometimes try a smoke or drink just to see how it
+feels, but they do not start using drugs on a regular basis. What
+is the harm in trying drugs just to see how it feels?
+Ideally, there is no need to try out a smoke or drink.
+But there is a great difference between “ trying out” smoking  or
+drinking as compared to drugs.
+Smoking and drinking once only or very occasionally does not
+always lead to addiction. But drugs are very powerful chemicals that
+can cause profound alterations in the metabolism of the  body and
+in the chemistry of the brain. Even a single dose of a powerful drug
+can start the addiction process. When one’s mind and body becomes
+addicted to drugs, stopping drugs produces very unpleasant and
+distressing mental and physical symptoms. This makes the addict
+persist with the usage of the drug. Addicts cannot give up their habit
+unless they get medical treatment and counselling.
+You should not boast about your strong will power and assume that
+you can experiment with drugs without becoming addicted. ALWAYS
+KEEP AWAY from drugs. Do not allow yourself to succumb to
+pressure by friends and acquaintances. If you remain firm in your
+resolve, you can prevent your life from being ruined.
+
+Some Common Human Diseases
+ 287
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+Some Basic Facts
+What are Reproductive Tract Infections (RTIs)?
+RTIs are infections of the upper and lower reproductive tracts of
+both sexes. Agents of infection include bacteria, viruses, and
+protozoa. Not all RTIs are sexually transmitted; some may occur
+due to an imbalance of the bacteria normally found in the reproductive
+tract and poor personal hygiene.
+Some Basic Facts
+Is it possible for a person to have an RTI (Reproductive  Tract
+Infection) without knowing about it?
+Symptoms of RTIs in men are visible, and hence they become aware
+that their sexual organs have been infected.
+However, RTIs in women sometimes can be asymptomatic. This
+means that signs or symptoms are not experienced even though the
+infection is active. Hence women often do not know that they have
+RTI.
+INTEXT QUESTIONS 29.7
+1. Name the pathogen that causes syphilis.
+..................................................................................................................
+2. Mention any two symptoms of the disease gonorrhoea.
+..................................................................................................................
+3. Give the main method of checking syphilis.
+..................................................................................................................
+ WHAT YOU HAVE LEARNT
+z
+Diseases are broadly classified into two categories–Acquired (Occur after birth)
+and congenital (present from birth).
+z
+Infectious diseases are transmitted from a diseased person to a healthy person
+and degenerative diseases are due to malfunctioning of some organs.
+z
+Cancer is uncontrolled growth of cells.
+
+Some Common Human Diseases
+BIOLOGY
+ 288
+Notes
+MODULE - 4
+Environment and
+Health
+z
+Acquired diseases are studied in two categories of communicable and non-
+communicable diseases.
+z
+Communicable diseases are transmitted and may be caused by virus, bacteria,
+protozoa or helminths (worms).
+z
+Non-communicable diseases are not transmitted from a diseased person to a
+healthy person.
+z
+diseases which spread by sexual contact are called sexually transmitted diseases
+(STD).
+z
+AIDS is caused by HIV.
+z
+Gonorrhoea is caused by a bacterium (Neisseria gonorrhoeae). Syphilis is
+caused by a long, corkscrew bacterium (Treponema pallidum).
+TERMINAL EXERCISES
+1.
+What is a disease? How does it differ from disorder?
+2.
+Name the two categories of acquired diseases.
+3.
+Explain the term (i) parasitism (ii) reservoir.
+4.
+Give two symptoms of coronary diseases and of typhoid.
+5.
+What precautions should be taken to prevent malaria?
+6.
+Name the pathogen that causes diphtheria and the one, that causes cholera.
+7.
+Mention the four types of acquired diseases.
+8.
+Differentiate between :
+(i)
+Communicable and non-communicable diseases
+(ii)
+Pathogen and vector
+(iii)
+Syphilis and gonorrhoea
+(iv)
+HIV and AIDS
+(v)
+Benign and malignant tumours
+9.
+How does polio virus enter human body? How does it paralyse limbs?
+10. A nursing mother is given an immunization for BCG and DPT to the baby. What
+are the diseases against which she would be protected?
+11. Give the cause, symptoms and treatment of haemorrhagic dengue fever.
+12. Give full form of STD.
+13. Mention any two sympotms of syphilis.
+14. State the means by which we may prevent and cure gonorrhoea.
+15. What does the term AIDS stand for?
+16. Write four possible symptoms of AIDS.
+17. Mention three general points which may control sexually transmitted diseases.
+
+Some Common Human Diseases
+ 289
+BIOLOGY
+Notes
+MODULE - 4
+Environment and
+Health
+ANSWERS TO INTEXT QUESTIONS
+29.1 1.
+Any condition which interfers with the normal functioning of the body.
+2.
+(i) congenital (ii) degenerative
+3.
+Refer text.
+4.
+Presence of large number of organisms on the surface of body.
+29.2 1.
+Contact or scabs
+2.
+Appearance of rashes on the body
+3.
+Nervous system
+4.
+Rabies virus
+5.
+Aedes aegypti
+29.3 1.
+(i)
+Mycobacterium tuberculosis
+(ii)
+Salmonella typhi
+(iii) Vibrio cholerae
+2.
+Oozing semisolid material in the throat, form a membrane which blocks
+the air passage.
+3.
+Prolonged contact with patient.
+29.4 1.
+Female Anopheles
+2.
+Entamoeba histolytica
+3.
+Elephantiasis or Filariasis
+29.5 1.
+It is passed down from parents to offspring.
+2.
+The blood pressure remains persistently high.
+3.
+Benign tumor does not spread to other parts of the body, whereas
+malignant tumor cells spread to other parts of the body.
+29.6 1.
+Any three points mentioned under “mode of transmission”
+2.
+Give any two points written under “prevention and cure”.
+3.
+Human immunodeficiency virus.
+4.
+Mention any two points given under “symptoms.”
+5.
+(i)
+Partner-notification.
+(ii)
+Education of STD.
+(iii) Screening for STD.
+29.7 1.
+Treponema pallidum
+2.
+(i)
+Swelling of mucous membrane of urinogenital tract.
+(ii)
+Burning sensation during passing of urine.
+3.
+(i)
+Prostitution and homosexuality should be avoided.
+(ii)
+Certain medicines may check the diseases.
+
+
+
+MODULE - V
+EMERGING AREAS IN BIOLOGY
+30 Biotechnology
+31 Immunobiology: An Introduction
+
