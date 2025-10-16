@@ -3,10 +3,9 @@ import os
 from pathlib import Path
 from typing import List, Literal
 from fastapi import FastAPI, UploadFile, File, Form
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, FileResponse
 from langchain.docstore.document import Document
 from dotenv import load_dotenv
-
 from fastapi.middleware.cors import CORSMiddleware
 
 import sys
@@ -23,6 +22,7 @@ from src.reranking.cohererank import CohererankRetriever
 from src.routing.semantic_router import SemanticRouterRetriever
 from src.chain.react_chain import ReactAnswerGenerator
 from langchain.embeddings import OpenAIEmbeddings
+
 
 # Load environment variables
 env_path = Path(__file__).resolve().parent.parent.parent / ".env"
@@ -41,10 +41,19 @@ PROJECT_ROOT = Path(__file__).parent.parent.parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 RAW_DIR = DATA_DIR / "raw"
 TEXT_DIR = DATA_DIR / "texts"
+# Path to templates
+TEMPLATES_DIR = Path(__file__).parent.parent / "templates"
+INDEX_HTML = TEMPLATES_DIR / "index.html"
 
 # ensure directories exist
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 TEXT_DIR.mkdir(parents=True, exist_ok=True)
+
+
+@app.get("/")
+async def get_index():
+    """Serve the index.html page."""
+    return FileResponse(INDEX_HTML)
 
 
 def save_uploaded_file_to_data(upload_file: UploadFile, target_path: Path) -> Path:
@@ -113,6 +122,7 @@ async def upload_and_index_file(
         "vector_db": str(vector_db_dir),
         "bm25": str(bm25_dir),
     }
+
 
 @app.post("/query")
 def query_rag(question: str = Form(...), top_k: int = Form(5)):
@@ -183,4 +193,3 @@ def query_rag(question: str = Form(...), top_k: int = Form(5)):
         "reranked_docs": docs_resp,
         "final_answer": final_answer,
     }
-
