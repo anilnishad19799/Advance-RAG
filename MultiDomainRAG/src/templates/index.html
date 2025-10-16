@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RAG Demo</title>
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: #f4f6f8;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background: #0078d4;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        font-size: 1.5em;
+    }
+
+    main {
+        max-width: 900px;
+        margin: 20px auto;
+        padding: 20px;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0px 4px 15px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+        color: #0078d4;
+    }
+
+    label {
+        font-weight: bold;
+    }
+
+    input[type="text"], select, input[type="file"], textarea {
+        width: 100%;
+        padding: 10px;
+        margin: 8px 0 15px 0;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        font-size: 1em;
+        box-sizing: border-box;
+    }
+
+    button {
+        background: #0078d4;
+        color: white;
+        border: none;
+        padding: 12px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 1em;
+        transition: background 0.3s ease;
+    }
+
+    button:hover {
+        background: #005ea0;
+    }
+
+    .section {
+        margin-bottom: 30px;
+    }
+
+    .documents {
+        margin-top: 10px;
+    }
+
+    .doc-card {
+        background: #e7f0fa;
+        padding: 8px 12px;       /* slightly smaller padding */
+        border-radius: 5px;
+        margin-bottom: 8px;
+        font-size: 0.9em;        /* smaller font */
+        line-height: 1.3em;      /* tighter line spacing */
+        word-break: break-word;   /* prevent overflow */
+    }
+
+    .final-answer {
+        background: #fff3cd;
+        border-left: 5px solid #ffeeba;
+        padding: 15px;
+        border-radius: 5px;
+        margin-top: 20px;
+        font-weight: bold;
+    }
+
+    .loader {
+        display: none;
+        border: 4px solid #f3f3f3;
+        border-top: 4px solid #0078d4;
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        animation: spin 1s linear infinite;
+        margin: 10px auto;
+    }
+
+    @keyframes spin {
+        0% { transform: rotate(0deg);}
+        100% { transform: rotate(360deg);}
+    }
+</style>
+</head>
+<body>
+
+<header>
+    Advance RAG Demo - File Upload & Question Answering
+</header>
+
+<main>
+    <div class="section">
+        <h2>1️⃣ Upload & Index File</h2>
+        <label for="dataset">Select Dataset:</label>
+        <select id="dataset">
+            <option value="medical">Medical</option>
+            <option value="legal">Legal</option>
+            <option value="other">Other</option>
+        </select>
+
+        <label for="file">Choose File (PDF/TXT):</label>
+        <input type="file" id="file">
+
+        <button onclick="uploadFile()">Upload & Index</button>
+        <div class="loader" id="uploadLoader"></div>
+        <div id="uploadResult"></div>
+    </div>
+
+    <div class="section">
+        <h2>2️⃣ Ask a Question</h2>
+        <label for="question">Question:</label>
+        <input type="text" id="question" placeholder="Type your question here...">
+
+        <label for="topk">Top K Documents:</label>
+        <input type="text" id="topk" value="5">
+
+        <button onclick="askQuestion()">Get Answer</button>
+        <div class="loader" id="queryLoader"></div>
+
+        <div id="documents" class="documents"></div>
+        <div id="finalAnswer" class="final-answer"></div>
+    </div>
+</main>
+
+<script>
+const API_BASE = "http://127.0.0.1:8000"; // Adjust if your FastAPI runs elsewhere
+
+async function uploadFile() {
+    const dataset = document.getElementById('dataset').value;
+    const fileInput = document.getElementById('file');
+    if (!fileInput.files.length) {
+        alert("Please select a file.");
+        return;
+    }
+    const file = fileInput.files[0];
+
+    const formData = new FormData();
+    formData.append("dataset", dataset);
+    formData.append("file", file);
+
+    document.getElementById('uploadLoader').style.display = 'block';
+    const resultDiv = document.getElementById('uploadResult');
+    resultDiv.innerHTML = '';
+
+    try {
+        const res = await fetch(`${API_BASE}/upload_and_index`, {
+            method: "POST",
+            body: formData
+        });
+        const data = await res.json();
+        document.getElementById('uploadLoader').style.display = 'none';
+        if (res.ok) {
+            resultDiv.innerHTML = `<p style="color:green;">File uploaded & indexed successfully!</p>`;
+        } else {
+            resultDiv.innerHTML = `<p style="color:red;">Error: ${data.error}</p>`;
+        }
+    } catch (err) {
+        console.error(err);
+        document.getElementById('uploadLoader').style.display = 'none';
+        resultDiv.innerHTML = `<p style="color:red;">Error: ${err}</p>`;
+    }
+}
+
+async function askQuestion() {
+    const question = document.getElementById('question').value.trim();
+    const top_k = parseInt(document.getElementById('topk').value) || 5;
+
+    if (!question) {
+        alert("Please enter a question.");
+        return;
+    }
+
+    document.getElementById('queryLoader').style.display = 'block';
+    const docsDiv = document.getElementById('documents');
+    const answerDiv = document.getElementById('finalAnswer');
+    docsDiv.innerHTML = '';
+    answerDiv.innerHTML = '';
+
+    const formData = new URLSearchParams();
+    formData.append("question", question);
+    formData.append("top_k", top_k);
+
+    try {
+        const res = await fetch(`${API_BASE}/query`, {
+            method: "POST",
+            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+            body: formData
+        });
+        const data = await res.json();
+        document.getElementById('queryLoader').style.display = 'none';
+
+        if (res.ok) {
+            // Show reranked docs
+            data.reranked_docs.forEach(doc => {
+                const div = document.createElement('div');
+                div.className = 'doc-card';
+                // div.innerHTML = `<strong>Source:</strong> ${doc.metadata.source || 'N/A'}<br>${doc.text}`;
+                div.innerHTML = `<strong>Domain:</strong> ${doc.metadata.domain || 'N/A'}<br>${doc.text}`;
+                docsDiv.appendChild(div);
+            });
+
+            // Show final answer
+            answerDiv.innerHTML = data.final_answer || 'No answer generated.';
+        } else {
+            docsDiv.innerHTML = `<p style="color:red;">Error: ${data.error}</p>`;
+        }
+    } catch (err) {
+        console.error(err);
+        document.getElementById('queryLoader').style.display = 'none';
+        docsDiv.innerHTML = `<p style="color:red;">Error: ${err}</p>`;
+    }
+}
+</script>
+
+</body>
+</html>
