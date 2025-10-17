@@ -2,7 +2,7 @@
 
 from langchain.schema import BaseRetriever, Document
 from typing import List
-from src.retriever.hybrid_retriever import HybridRetriever
+from retriever.hybrid_retriever import HybridRetriever
 from pydantic import PrivateAttr
 
 
