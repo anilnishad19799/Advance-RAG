@@ -2,8 +2,8 @@
 
 from typing import List
 from langchain.docstore.document import Document
-from src.indexing.bm25_indexer import BM25Indexer
-from src.indexing.chromadb_indexer import ChromaDBIndexer
+from indexing.bm25_indexer import BM25Indexer
+from indexing.chromadb_indexer import ChromaDBIndexer
 
 
 class HybridRetriever:
