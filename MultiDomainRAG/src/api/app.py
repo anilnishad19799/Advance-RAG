@@ -12,20 +12,20 @@ import sys
 
 sys.path.append(str(Path(__file__).parent.parent))
 
-from src.utils.file_loader import FileLoader
-from src.chunking.sentence_window_chunker import SentenceWindowChunker
-from src.indexing.chromadb_indexer import ChromaDBIndexer
-from src.indexing.bm25_indexer import BM25Indexer
-from src.retriever.hybrid_retriever import HybridRetriever
-from src.retriever.hybrid_adapter import HybridRetrieverAdapter
-from src.reranking.cohererank import CohererankRetriever
-from src.routing.semantic_router import SemanticRouterRetriever
-from src.chain.react_chain import ReactAnswerGenerator
+from utils.file_loader import FileLoader
+from chunking.sentence_window_chunker import SentenceWindowChunker
+from indexing.chromadb_indexer import ChromaDBIndexer
+from indexing.bm25_indexer import BM25Indexer
+from retriever.hybrid_retriever import HybridRetriever
+from retriever.hybrid_adapter import HybridRetrieverAdapter
+from reranking.cohererank import CohererankRetriever
+from routing.semantic_router import SemanticRouterRetriever
+from chain.react_chain import ReactAnswerGenerator
 from langchain.embeddings import OpenAIEmbeddings
 
 
 # Load environment variables
-env_path = Path(__file__).resolve().parent.parent.parent / ".env"
+env_path = Path(__file__).resolve().parent.parent / ".env"
 load_dotenv(dotenv_path=env_path)
 
 app = FastAPI(title="Advance RAG API")
