@@ -5,6 +5,13 @@ from langchain.docstore.document import Document
 from langchain.embeddings.openai import OpenAIEmbeddings
 from pathlib import Path
 from typing import List
+from dotenv import load_dotenv
+
+env_path = Path(__file__).resolve().parent.parent / ".env"
+
+print("*" * 100)
+print("env_path", env_path)
+load_dotenv(dotenv_path=env_path)
 
 
 class ChromaDBIndexer:
