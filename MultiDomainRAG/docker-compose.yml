@@ -9,4 +9,4 @@ services:
     ports:  
       - "8000:8000"
     volumes:
-      - ./data:/app/data          # Mount your data folder
+      - ./data:/app/data          # Mount your data folder where pdf and xml will be saved
