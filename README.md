@@ -101,23 +101,8 @@ git clone <your-repo-url>
 cd MultiDomainRAG
 ```
 
-### 2️⃣ Create Virtual Environment
-```bash
-python -m venv venv
-# Activate it
-# On Windows:
-venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
-```
-
-### 3️⃣ Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Configure Environment Variables
-Create a `.env` file in the `MultiDomainRAG` directory (if required):
+### 2️⃣ Configure Environment Variables
+Create a `.env` file in the `MultiDomainRAG/src` directory (if required):
 ```bash
 OPENAI_API_KEY=your_openai_api_key_here
 CO_API_KEY=your_cohererank_api_key_here
@@ -130,22 +115,14 @@ CO_API_KEY=your_cohererank_api_key_here
 ### Step 1 — Start the Backend Server
 Go to the `MultiDomainRAG` folder and run:
 ```bash
-uvicorn src.api.app:app --reload
+docker compose build - it will take time to build 
+docker compose up - it will start server
 ```
 
-- The FastAPI server will start at:  
+- The FastAPI server and website will start at:  
   👉 http://127.0.0.1:8000  
 - (Optional) API documentation:  
   👉 http://127.0.0.1:8000/docs
-
----
-
-### Step 2 — Open the Frontend
-
-1. Go to the folder:  
-   `MultiDomainRAG/frontend`
-2. Double-click on **index.html** to open it in your browser.  
-3. It will open a **chat-based RAG application**.
 
 ---
 
